@@ -1,4 +1,4 @@
-# Task--Seven
+# Task-Seven
 Metasploitable VM scanning and reporting
 
 This directory contains the results of various scanning and banner-grabbing tasks performed on a Metasploitable VM. The tasks include an OpenVAS vulnerability scan, a Nikto web server scan, and a banner grab using Netcat.
